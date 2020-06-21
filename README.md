@@ -26,3 +26,12 @@
 ## 注意事项
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+ 
+ 
+ 
+ #学号:G20200343070312
+ #姓名:赵宏杰
+ #班级:2班
+ #小组:2
+ #语言:JAVA
+ #作业&总结链接:https://github.com/zhaohjf/algorithm010/tree/master/Week02
